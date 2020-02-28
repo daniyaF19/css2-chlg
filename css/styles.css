@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+html{
+    font-family: "Barlow Condensed" Barlow;
+    font-size: 18px;
+}
+
+.button {
+    background-color: hsl(230, 29%, 20%);
+    color: white;
+    border-radius: 25px;
+}
+
+.btn {
+    background-color: hsl(0, 100%, 68%);
+    color: white;
+    margin-top: 10px;
+    padding: 10px 10px 10px 10px;
+    
+    
+}
+
+.first h6 {
+    color: hsl(230, 11%, 40%);
+    letter-spacing: 0.2rem;
+    margin-top: 10px;
+
+}
+
+.first h1 {
+    font-weight: bolder;
+     color: hsl(230, 29%, 20%);
+}
+
+.first p {
+    color: hsl(231, 7%, 65%);
+    padding-top: 10px;
+}
+
+.first sub {
+    color: hsl(230, 11%, 40%);
+    letter-spacing: 0.2rem;
+    margin-top: 10px;
+
+}
